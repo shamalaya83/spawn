@@ -252,7 +252,6 @@
 {"BossName":"Erethon","Code":"x1_catacombs_nw_02","FloorX":612.516,"FloorY":1222.22925,"SceneX":480.0,"SceneY":1200.0,"NavMeshId":2410808061},
 {"BossName":"Tethrys","Code":"a3dun_crater_ne_01_e01_n01","FloorX":1060.42175,"FloorY":789.3427,"SceneX":960.0,"SceneY":720.0,"NavMeshId":2415067884},
 {"BossName":"Rime","Code":"x1_fortress_se_02","FloorX":450.262817,"FloorY":618.5746,"SceneX":240.0,"SceneY":480.0,"NavMeshId":2421228297},
-[
 {"BossName":"Bone Warlock","Code":"x1_catacombs_nse_01","FloorX":865.152,"FloorY":467.724,"SceneX":720.0,"SceneY":240.0,"NavMeshId":2432369169},
 {"BossName":"Bone Warlock","Code":"a1dun_leor_ns_02","FloorX":594.945862,"FloorY":1111.442,"SceneX":480.0,"SceneY":960.0,"NavMeshId":2436825686},
 {"BossName":"Man Carver","Code":"x1_catacombs_ew_01","FloorX":339.9907,"FloorY":587.347,"SceneX":240.0,"SceneY":480.0,"NavMeshId":2445280001},
